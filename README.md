@@ -1,16 +1,22 @@
-# stok_takip_uygulamasi
+# Stok Takip Uygulaması
 
-A new Flutter project.
+Kendi dükkanımız için geliştirdiğim basit ve kullanışlı stok takip uygulaması.
 
-## Getting Started
+## 📱 Özellikler
 
-This project is a starting point for a Flutter application.
+- **Ürün Yönetimi**: Ürün ekleme, güncelleme ve silme
+- **Kategori & Birim Yönetimi**: Kategoriler ve ölçü birimleri
+- **Stok Takibi**: Güncel stok durumu ve düşük stok uyarıları
+- **Sipariş Sistemi**: Basit sipariş oluşturma
+- **QR Kod Tarama**: Hızlı ürün arama
+- **Günlük Satışlar**: Satış takibi
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Teknolojiler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** - UI Framework
+- **Supabase** - Backend ve Veritabanı
+- **PostgreSQL** - Veritabanı
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Kullanım
+
+Basit bir envanter yönetim sistemi olarak tasarlandı. Küçük işletmeler için temel stok takip ihtiyaçlarını karşılar.
